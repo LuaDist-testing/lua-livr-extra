@@ -1,0 +1,9 @@
+site_name: lua-LIVR-extra
+site_description: more LIVR rules
+site_author: François Perrad
+repo_url: https://github.com/fperrad/lua-LIVR-extra
+pages:
+- Home: index.md
+- Rules: extra.md
+theme: mkdocs
+copyright: Copyright &copy; 2018 Fran&ccedil;ois Perrad
